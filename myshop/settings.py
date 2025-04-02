@@ -34,7 +34,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'hdhthanh.20it3@vku.udn.vn'
-EMAIL_HOST_PASSWORD = 'mkbi qejz oflg xpqf'
+EMAIL_HOST_PASSWORD = ''
 
 # Application definition
 
